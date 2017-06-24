@@ -1,6 +1,6 @@
 {
   "name": "ndx-host",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "reports hostname and protocol to the server for ndx-framework apps",
   "main": "build/index.js",
   "scripts": {
