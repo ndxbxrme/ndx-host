@@ -1,0 +1,17 @@
+{
+  "name": "ndx-host",
+  "description": "reports hostname and protocol to the server for ndx-framework apps",
+  "main": "build/index.js",
+  "authors": [
+    "ndxbxrme"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ndxbxrme/ndx-host",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
